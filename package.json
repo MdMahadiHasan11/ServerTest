@@ -10,11 +10,20 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "mongodb": "^6.13.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdMahadiHasan11/ServerTest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MdMahadiHasan11/ServerTest/issues"
+  },
+  "homepage": "https://github.com/MdMahadiHasan11/ServerTest#readme",
+  "description": ""
 }
